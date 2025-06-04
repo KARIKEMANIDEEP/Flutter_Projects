@@ -1,0 +1,24 @@
+
+{"data":[
+  {
+    "Title": "NSE",
+    "FullForm": "National Stock Exchange"
+  },
+  {
+    "Title": "BSE",
+    "FullForm": "Bombay Stock Exchange"
+  },
+  {
+    "Title": "India",
+    "FullForm": "StockMarket"
+  },
+  {
+    "Title": "Brokerage",
+    "FullForm": ["UpStock","Zerodha","Grow","Indmoney"]
+  },
+  {
+    "Title": "Investors",
+    "FullForm": ["LongTerm","ShortTerm","DayTrader"]
+  }
+]
+}

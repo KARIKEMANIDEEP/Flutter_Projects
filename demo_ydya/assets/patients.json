@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Veera",
+    "age": 34,
+    "gender":"Male",
+    "date": "12-2-2025",
+    "time": "12:00",
+    "los": 10,
+    "clinic": "GeneralMedical",
+    "bed": "Normal",
+    "doctor": "Raghu",
+    "status": "General"
+  },
+  {
+    "name": "Bheesma",
+    "age": 48,
+    "gender":"Male",
+    "date": "12-3-2025",
+    "time": "12:10",
+    "los": 12,
+    "clinic": "GeneralMedical",
+    "bed": "Expensive",
+    "doctor": "Acharya",
+    "status": "Operation"
+  },
+  {
+    "name": "Bheesma",
+    "age": 48,
+    "gender":"Male",
+    "date": "12-3-2025",
+    "time": "12:10",
+    "los": 12,
+    "clinic": "GeneralMedical",
+    "bed": "Expensive",
+    "doctor": "Acharya",
+    "status": "Operation"
+  },
+  {
+    "name": "Bheesma",
+    "age": 48,
+    "gender":"Male",
+    "date": "12-3-2025",
+    "time": "12:10",
+    "los": 12,
+    "clinic": "GeneralMedical",
+    "bed": "Expensive",
+    "doctor": "Acharya",
+    "status": "Operation"
+  },
+  {
+    "name": "Bheesma",
+    "age": 48,
+    "gender":"Male",
+    "date": "12-3-2025",
+    "time": "12:10",
+    "los": 12,
+    "clinic": "GeneralMedical",
+    "bed": "Expensive",
+    "doctor": "Acharya",
+    "status": "Operation"
+  },
+  {
+    "name": "Bheesma",
+    "age": 48,
+    "gender":"Male",
+    "date": "12-3-2025",
+    "time": "12:10",
+    "los": 12,
+    "clinic": "GeneralMedical",
+    "bed": "Expensive",
+    "doctor": "Acharya",
+    "status": "Operation"
+  }
+]

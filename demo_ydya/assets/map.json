@@ -1,0 +1,23 @@
+[
+  {
+    "SNO": 1,
+    "DOCTOR_CD": "DM095",
+    "DOCTOR_NAME": "Kavitha Reddy",
+    "APMNT_DT": "2025-04-08T00:00:00",
+    "BOOKED_CNT": null,
+    "COMPLETED_CNT": 1,
+    "TOTAL_APMNT_CNT": 1,
+    "TODAY_APMNT_MSG": "Today you have 0 appointments ",
+    "NEXT_APMNT_DT": null,
+    "NEXT_DAY_BOOKED_CNT": null,
+    "NEXT_DAY_APMNT_MSG": "Tomorrow you have 0 appointments ",
+    "TODAY_ON_BED_CNT": 36,
+    "TODAY_DSCHRG_CNT": 19,
+    "TODAY_ER_CNT": 0,
+    "TOTAL_ADMN_CNT": 55,
+    "IP_CRITICAL_ALERT": null,
+    "OP_CRITICAL_ALERT": 4,
+    "OP_REFERRAL_CNT": null,
+    "IP_REFERRAL_CNT": null
+  }
+]

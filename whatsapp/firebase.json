@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"whatsapp-5a26a","appId":"1:1592688146:android:d77797dabbf4d1820062cb","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"whatsapp-5a26a","configurations":{"android":"1:1592688146:android:d77797dabbf4d1820062cb","ios":"1:1592688146:ios:d16377186231c6580062cb"}}}}}}

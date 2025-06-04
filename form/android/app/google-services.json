@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612226465190",
+    "project_id": "form-ed930",
+    "storage_bucket": "form-ed930.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612226465190:android:d122ddf21a44caf95de367",
+        "android_client_info": {
+          "package_name": "com.example.form"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOTr5mnT5kAbGPYXi25I-QpCY1HMvytWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
