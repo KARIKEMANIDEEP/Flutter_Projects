@@ -1,0 +1,67 @@
+🟢 Basic Dart Syntax and Variables
+Print "Hello, World!"
+
+Declare a variable and print its value
+
+Swap two numbers using a temporary variable
+
+Swap two numbers without using a temporary variable
+
+Add two numbers and print the result
+
+Find the data type of a variable using runtimeType
+
+🔢 Conditions and Loops
+Check if a number is even or odd
+
+Check if a number is positive, negative, or zero
+
+Find the largest of three numbers
+
+Print numbers from 1 to 10 using a for loop
+
+Print multiplication table of a given number
+
+Sum of all even numbers from 1 to 100
+
+🔁 Functions and Methods
+Create a function to calculate factorial of a number
+
+Write a function to check if a number is prime
+
+Write a function to check if a number is a palindrome
+
+Write a function to generate Fibonacci series
+
+📦 Lists and Loops
+Add and remove items in a list
+
+Print all elements in a list using forEach
+
+Find the maximum number in a list
+
+Sort a list of integers in ascending order
+
+🔤 Strings
+Check if a string is a palindrome
+
+Count the number of vowels in a string
+
+Reverse a string
+
+Convert a string to uppercase and lowercase
+
+Replace a word in a sentence
+
+🧮 Map and Set
+Create a map and print its keys and values
+
+Find frequency of each character in a string using map
+
+Create a set and perform union and intersection
+
+🧪 OOP Basics (Optional for Beginners)
+Create a Person class with name and age
+
+Add a method inside a class to print person details
+

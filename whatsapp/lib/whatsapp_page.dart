@@ -352,7 +352,7 @@ class ChatList extends StatelessWidget {
       body: isLoading
           ? Center(child: CircularProgressIndicator())
           : ListView.builder(
-               itemCount: chats.length,
+        itemCount: chats.length,
         itemBuilder: (context, index) {
           final chat = chats[index];
           return ListTile(
@@ -474,14 +474,3 @@ class callsList extends StatelessWidget {
 
   }
 }
-
-
-
-
-
-
-
-
-
-
-
